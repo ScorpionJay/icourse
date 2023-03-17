@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkicourse=self.webpackChunkicourse||[]).push([[3027],{1841:e=>{e.exports=JSON.parse('{"permalink":"/icourse/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

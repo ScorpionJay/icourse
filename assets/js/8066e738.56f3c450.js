@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkicourse=self.webpackChunkicourse||[]).push([[9511],{4690:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/icourse/blog/tags/docusaurus","allTagsPath":"/icourse/blog/tags","count":4}')}}]);

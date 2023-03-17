@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkicourse=self.webpackChunkicourse||[]).push([[2608],{9612:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/icourse/blog/tags/facebook","allTagsPath":"/icourse/blog/tags","count":1}')}}]);
